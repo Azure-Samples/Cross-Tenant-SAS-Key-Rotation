@@ -34,7 +34,7 @@ The cryptographic features replicated in the Azure Key Vault that provide the fu
 
 ## PoC Architecture
 
-![PoC Infrastructure](../Cross-Tenant-SAS-Key-Rotation/Docs/key-rotation.svg)
+![PoC Infrastructure](https://github.com/Azure-Samples/Cross-Tenant-SAS-Key-Rotation/blob/main/Docs/key-rotation.svg)
 
 The architecture above has helped envision and generate a plan of action when we were desinging the key rotation solution.
 The flow for the key rotation goes as follows:
