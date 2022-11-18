@@ -1,0 +1,18 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+      "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+      "AZURE_CLIENT_SECRET": "<PLACEHOLDER>", 
+      "AZURE_CLIENT_ID": "<PLACEHOLDER>", 
+      "AZURE_PROVIDER_TENANT_ID": "<PLACEHOLDER>",
+      "AZURE_CUSTOMER_TENANT_ID": "<PLACEHOLDER>", 
+      "SB_NAMESPACE": "<PLACEHOLDER>", 
+      "COMMAND_QUEUE_NAME": "<PLACEHOLDER>", 
+      "RESPONSE_QUEUE_NAME": "<PLACEHOLDER>",
+      "COMMAND_QUEUE_CONNECTION_STRING": "<PLACEHOLDER>", 
+      "REPONSE_QUEUE_CONNECTION_STRING": "<PLACEHOLDER>", 
+      "AZURE_KEYVAULT_CONNECTION_STRING": "<PLACEHOLDER>" 
+    }
+  }
+  
